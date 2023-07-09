@@ -1,0 +1,64 @@
+body {
+  background-color: black;
+  border: 25px solid grey;
+  margin: 0 auto;
+  padding: 0 30px 30px 30px;
+  width: 850px;
+}
+
+h1 {
+  color: white;
+  font-size: 70px;
+  margin: 0;
+  padding: 20px 0;
+  text-shadow: 6px 6px 4px grey;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  text-align: center;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+li,
+p {
+  color: white;
+}
+
+h2 {
+  font-size: 40px;
+}
+
+h3,
+h4 {
+  font-size: 30px;
+}
+
+h5 {
+  font-size: 20px;
+}
+
+html {
+  background-color: white;
+  font-family: "Kirang Haerang", standard-styles;
+  font-size: 10px;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+p,
+li {
+  font-size: 20px;
+  letter-spacing: 1px;
+  line-height: 2;
+}
